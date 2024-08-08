@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
@@ -24,6 +25,16 @@
 | 微調腳本 |
 | -------- |
 | [LinuxMint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-linuxmint-xfce/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-linuxmint-xfce/read/config/mousebind.html) |
 
 
 
