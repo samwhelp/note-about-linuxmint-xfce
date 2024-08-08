@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [LinuxMint Xfce](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/) |
+| [LinuxMint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/) |
 
 
 
