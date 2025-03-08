@@ -9,6 +9,9 @@
 | [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-linuxmint-xfce/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
