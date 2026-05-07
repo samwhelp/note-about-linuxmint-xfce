@@ -32,7 +32,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Linux Mint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/) |
+| [Linux Mint Xfce Config](https://github.com/samwhelp/linuxmint-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/linuxmint-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
